@@ -2,8 +2,8 @@ from instagrapi import Client
 import time
 
 # Авторизация
-username = "khasank55"
-password = "Kenjaev00177266255"
+username = str(input("Instanick: "))
+password = input("Password: ")
 cl = Client()
 cl.login(username, password)
 
