@@ -8,7 +8,7 @@ def show_banner():
     print(" " * 15 + "InstaCleaner")
     print("=" * 50)
     print("Инструмент для управления подписками Instagram")
-    print("Автор: [Ваше имя или псевдоним]")
+    print("Автор: darkstar")
     print("=" * 50)
 
 # Запуск программы
